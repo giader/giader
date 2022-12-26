@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @giader (Gianni) 
+- 👀 I’m interested in ML, DL, AI
+- 🌱 I’m currently learning DL
+- 💞️ I’m looking to collaborate on ML, DL, AI
+- 📫 How to reach me: LinkedIn > https://www.linkedin.com/in/gianniderossi/
